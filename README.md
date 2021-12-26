@@ -1,8 +1,8 @@
 # hello-world
 My First Repository
-Just Checking how GitHub Works.
+Checking how Git Works.
 ..
 ...
-....
+....!!!!
 
 Doing to see how commit works.
