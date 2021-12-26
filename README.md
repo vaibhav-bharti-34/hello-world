@@ -1,11 +1,13 @@
 # hello-world
 My First Repository
-Just Checking how GitHub Works.
+Checking how Git Works.
 ..
 ...
 ....
 info:
 Name: Vaibhav Bharti
 : First project
+
+
 
 Doing to see how commit works.
